@@ -1,0 +1,501 @@
+customer_id,preferred_category,churn_probability,primary_churn_reason,clv,clv_tier,risk_tier,segment,body_incentive,body_recommendations
+CUST_001,Beauty,0.0031682341,frequency,5899.751800000004,High Value,Low Risk,"High Value, Low Risk",,
+CUST_002,Electronics,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_003,Home & Kitchen,0.0031682341,frequency,39.77767463261931,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_004,Beauty,0.0031682341,frequency,1783.463040000001,High Value,Low Risk,"High Value, Low Risk",,
+CUST_005,Beauty,0.0031682341,frequency,12.739585165254265,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_006,Electronics,0.9968317,recency,0.61154,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_007,Sports & Outdoors,0.0031682341,frequency,1.7445556892230576,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_008,Sports & Outdoors,0.0031682341,frequency,3.242709022556391,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_009,Electronics,0.0031682341,frequency,1657.9065227106237,High Value,Low Risk,"High Value, Low Risk",,
+CUST_010,Electronics,0.0031682341,frequency,393.94627841269835,High Value,Low Risk,"High Value, Low Risk",,
+CUST_011,Apparel,0.0031682341,frequency,970.8228199433902,High Value,Low Risk,"High Value, Low Risk",,
+CUST_012,Home & Kitchen,0.0031682341,frequency,4605.729099999998,High Value,Low Risk,"High Value, Low Risk",,
+CUST_013,Beauty,0.0031682341,frequency,1576.3916521645024,High Value,Low Risk,"High Value, Low Risk",,
+CUST_014,Electronics,0.0031682341,frequency,653.1915061409182,High Value,Low Risk,"High Value, Low Risk",,
+CUST_015,Apparel,0.9968317,recency,123.58026413307348,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_016,Apparel,0.0031682341,frequency,453.24752327735087,High Value,Low Risk,"High Value, Low Risk",,
+CUST_017,Beauty,0.0031682341,frequency,1157.6654900000003,High Value,Low Risk,"High Value, Low Risk",,
+CUST_018,Apparel,0.9968317,recency,59.262975197856406,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_019,Electronics,0.0031682341,frequency,95.95104000000003,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_020,Beauty,0.0031682341,frequency,1094.5240685714289,High Value,Low Risk,"High Value, Low Risk",,
+CUST_021,Apparel,0.0031682341,frequency,201.70807212121207,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_022,Apparel,0.0031682341,frequency,3494.293229999998,High Value,Low Risk,"High Value, Low Risk",,
+CUST_023,Home & Kitchen,0.0031682341,frequency,574.0901766666669,High Value,Low Risk,"High Value, Low Risk",,
+CUST_024,Beauty,0.0031682341,frequency,1393.4799033333338,High Value,Low Risk,"High Value, Low Risk",,
+CUST_025,Beauty,0.0031682341,frequency,476.8259183333337,High Value,Low Risk,"High Value, Low Risk",,
+CUST_026,Sports & Outdoors,0.0031682341,frequency,799.084362308802,High Value,Low Risk,"High Value, Low Risk",,
+CUST_027,Home & Kitchen,0.0031682341,frequency,665.083810952381,High Value,Low Risk,"High Value, Low Risk",,
+CUST_028,Apparel,0.0031682341,frequency,915.34353,High Value,Low Risk,"High Value, Low Risk",,
+CUST_029,Home & Kitchen,0.0031682341,frequency,1213.1107238095244,High Value,Low Risk,"High Value, Low Risk",,
+CUST_030,Electronics,0.0031682341,frequency,399.3719450223262,High Value,Low Risk,"High Value, Low Risk",,
+CUST_031,Apparel,0.9968317,recency,93.609910860427,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_032,Apparel,0.0031682341,frequency,1329.766027619048,High Value,Low Risk,"High Value, Low Risk",,
+CUST_033,Apparel,0.9968317,recency,2.7583951443856636,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_034,Sports & Outdoors,0.9968317,recency,3.901065877251116,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_035,Beauty,0.0031682341,frequency,175.9505066378066,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_036,Beauty,0.0031682341,frequency,1801.9840047619043,High Value,Low Risk,"High Value, Low Risk",,
+CUST_037,Apparel,0.0031682341,frequency,311.951404105917,High Value,Low Risk,"High Value, Low Risk",,
+CUST_038,Home & Kitchen,0.9968317,recency,3.560758829252586,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_039,Electronics,0.9968317,recency,291.2410416598313,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_040,Beauty,0.0031682341,frequency,684.7359595515597,High Value,Low Risk,"High Value, Low Risk",,
+CUST_041,Sports & Outdoors,0.0031682341,frequency,870.8154614718617,High Value,Low Risk,"High Value, Low Risk",,
+CUST_042,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_043,Electronics,0.0031682341,frequency,1594.4705214285723,High Value,Low Risk,"High Value, Low Risk",,
+CUST_044,Electronics,0.9968317,recency,47.178429962624726,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_045,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_046,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_047,Home & Kitchen,0.0031682341,frequency,533.316223304473,High Value,Low Risk,"High Value, Low Risk",,
+CUST_048,Beauty,0.0031682341,frequency,344.6479733861164,High Value,Low Risk,"High Value, Low Risk",,
+CUST_049,Apparel,0.9968317,recency,36.13294643172668,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_050,Sports & Outdoors,0.0031682341,frequency,1391.0539928571434,High Value,Low Risk,"High Value, Low Risk",,
+CUST_051,Apparel,0.0031682341,frequency,14159.320599999995,High Value,Low Risk,"High Value, Low Risk",,
+CUST_052,Home & Kitchen,0.9968317,recency,154.2408999774689,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_053,Electronics,0.0031682341,frequency,2911.815200000001,High Value,Low Risk,"High Value, Low Risk",,
+CUST_054,Apparel,0.0031682341,frequency,11.643355209785781,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_055,Apparel,0.0031682341,frequency,65.14889527010611,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_056,Apparel,0.0031682341,frequency,312.0147130910049,High Value,Low Risk,"High Value, Low Risk",,
+CUST_057,Home & Kitchen,0.0031682341,frequency,4171.020500000001,High Value,Low Risk,"High Value, Low Risk",,
+CUST_058,Sports & Outdoors,0.0031682341,frequency,5724.248200000002,High Value,Low Risk,"High Value, Low Risk",,
+CUST_059,Beauty,0.9968317,recency,3.0136930744752575,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_060,Apparel,0.0031682341,frequency,5447.175866666669,High Value,Low Risk,"High Value, Low Risk",,
+CUST_061,Beauty,0.0031682341,frequency,722.2381636363638,High Value,Low Risk,"High Value, Low Risk",,
+CUST_062,Electronics,0.0031682341,frequency,403.2226097665609,High Value,Low Risk,"High Value, Low Risk",,
+CUST_063,Electronics,0.9968317,recency,2.431512515346539,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_064,Electronics,0.0031682341,frequency,2129.8027142857136,High Value,Low Risk,"High Value, Low Risk",,
+CUST_065,Sports & Outdoors,0.9968317,recency,42.89291085347253,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_066,Home & Kitchen,0.0031682341,frequency,319.1101643859647,High Value,Low Risk,"High Value, Low Risk",,
+CUST_067,Apparel,0.9968317,recency,85.88483653643966,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_068,Apparel,0.9968317,recency,358.7026743541495,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_069,Home & Kitchen,0.0031682341,frequency,4296.613049999996,High Value,Low Risk,"High Value, Low Risk",,
+CUST_070,Beauty,0.9968317,recency,7.71123623446355,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_071,Electronics,0.0031682341,frequency,3898.9264499999995,High Value,Low Risk,"High Value, Low Risk",,
+CUST_072,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_073,Beauty,0.0031682341,frequency,4580.316666666663,High Value,Low Risk,"High Value, Low Risk",,
+CUST_074,Apparel,0.0031682341,frequency,1619.2719412698402,High Value,Low Risk,"High Value, Low Risk",,
+CUST_075,Beauty,0.0031682341,frequency,550.1541916218506,High Value,Low Risk,"High Value, Low Risk",,
+CUST_076,Home & Kitchen,0.9968317,recency,32.76694757346162,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_077,Apparel,0.0031682341,frequency,447.3351333333331,High Value,Low Risk,"High Value, Low Risk",,
+CUST_078,Home & Kitchen,0.9968317,recency,10.76562151029259,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_079,Apparel,0.9968317,recency,57.86437620331647,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_080,Home & Kitchen,0.0031682341,frequency,24.4975367303006,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_081,Electronics,0.0031682341,frequency,278.0515918881429,High Value,Low Risk,"High Value, Low Risk",,
+CUST_082,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_083,Apparel,0.0031682341,frequency,4322.6483666666645,High Value,Low Risk,"High Value, Low Risk",,
+CUST_084,Apparel,0.0031682341,frequency,913.6383309523807,High Value,Low Risk,"High Value, Low Risk",,
+CUST_085,Electronics,0.0031682341,frequency,2120.3460835431247,High Value,Low Risk,"High Value, Low Risk",,
+CUST_086,Beauty,0.9968317,recency,87.12691997533031,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_087,Apparel,0.9968317,recency,5.520347537902442,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_088,Beauty,0.0031682341,frequency,118.15679178247585,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_089,Electronics,0.0031682341,frequency,1607.5061520490606,High Value,Low Risk,"High Value, Low Risk",,
+CUST_090,Beauty,0.0031682341,frequency,5665.619600000001,High Value,Low Risk,"High Value, Low Risk",,
+CUST_091,Beauty,0.0031682341,frequency,4953.1560333333355,High Value,Low Risk,"High Value, Low Risk",,
+CUST_092,Home & Kitchen,0.0031682341,frequency,2448.0306000000005,High Value,Low Risk,"High Value, Low Risk",,
+CUST_093,Sports & Outdoors,0.0031682341,frequency,180.41860649868207,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_094,Apparel,0.0031682341,frequency,15.752051868131868,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_095,Apparel,0.0031682341,frequency,4894.953600000002,High Value,Low Risk,"High Value, Low Risk",,
+CUST_096,Apparel,0.0031682341,frequency,1969.4741666666657,High Value,Low Risk,"High Value, Low Risk",,
+CUST_097,Home & Kitchen,0.0031682341,frequency,333.6839480083862,High Value,Low Risk,"High Value, Low Risk",,
+CUST_098,Home & Kitchen,0.0031682341,frequency,273.0511959803923,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_099,Electronics,0.9968317,recency,17.572022386464575,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_100,Beauty,0.0031682341,frequency,40.535985134167106,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_101,Beauty,0.9968317,recency,3.994838026969134,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_102,Apparel,0.0031682341,frequency,686.5556920246422,High Value,Low Risk,"High Value, Low Risk",,
+CUST_103,Sports & Outdoors,0.9968317,recency,2.114655937909146,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_104,Beauty,0.0031682341,frequency,506.1607743278946,High Value,Low Risk,"High Value, Low Risk",,
+CUST_105,Electronics,0.9968317,recency,104.48993697939261,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_106,Sports & Outdoors,0.0031682341,frequency,2236.2478322222214,High Value,Low Risk,"High Value, Low Risk",,
+CUST_107,Beauty,0.0031682341,frequency,4054.8398000000016,High Value,Low Risk,"High Value, Low Risk",,
+CUST_108,Sports & Outdoors,0.9968317,recency,27.853173011895446,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_109,Apparel,0.0031682341,frequency,886.8287361904764,High Value,Low Risk,"High Value, Low Risk",,
+CUST_110,Beauty,0.9968317,recency,8.654648888187474,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_111,Apparel,0.9968317,recency,0.05765882352941176,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_112,Electronics,0.0031682341,frequency,742.1861600532798,High Value,Low Risk,"High Value, Low Risk",,
+CUST_113,Apparel,0.0031682341,frequency,6702.137666666669,High Value,Low Risk,"High Value, Low Risk",,
+CUST_114,Apparel,0.0031682341,frequency,6.897722857142856,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_115,Sports & Outdoors,0.0031682341,frequency,4500.11643333333,High Value,Low Risk,"High Value, Low Risk",,
+CUST_116,Electronics,0.9968317,recency,73.33148693926292,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_117,Apparel,0.0031682341,frequency,430.33147118437125,High Value,Low Risk,"High Value, Low Risk",,
+CUST_118,Beauty,0.0031682341,frequency,5781.607599999997,High Value,Low Risk,"High Value, Low Risk",,
+CUST_119,Home & Kitchen,0.0031682341,frequency,107.0872455122836,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_120,Apparel,0.0031682341,frequency,1476.051329047619,High Value,Low Risk,"High Value, Low Risk",,
+CUST_121,Sports & Outdoors,0.0031682341,frequency,101.96339859719704,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_122,Beauty,0.0031682341,frequency,3663.972100000001,High Value,Low Risk,"High Value, Low Risk",,
+CUST_123,Electronics,0.9968317,recency,2.8056184700147377,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_124,Beauty,0.0031682341,frequency,474.12146189033194,High Value,Low Risk,"High Value, Low Risk",,
+CUST_125,Apparel,0.0031682341,frequency,483.1280957002744,High Value,Low Risk,"High Value, Low Risk",,
+CUST_126,Sports & Outdoors,0.0031682341,frequency,389.69708447026636,High Value,Low Risk,"High Value, Low Risk",,
+CUST_127,Electronics,0.9968317,recency,2.5920748929979784,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_128,Beauty,0.0031682341,frequency,80.52490917653832,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_129,Electronics,0.0031682341,frequency,397.1568825396824,High Value,Low Risk,"High Value, Low Risk",,
+CUST_130,Apparel,0.0031682341,frequency,437.0371880891329,High Value,Low Risk,"High Value, Low Risk",,
+CUST_131,Beauty,0.9968317,recency,36.46393460406189,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_132,Beauty,0.0031682341,frequency,190.7260452502227,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_133,Electronics,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_134,Beauty,0.0031682341,frequency,345.4521000000001,High Value,Low Risk,"High Value, Low Risk",,
+CUST_135,Apparel,0.0031682341,frequency,195.7621740818521,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_136,Electronics,0.0031682341,frequency,198.89284941012028,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_137,Home & Kitchen,0.0031682341,frequency,952.1722080952376,High Value,Low Risk,"High Value, Low Risk",,
+CUST_138,Apparel,0.0031682341,frequency,264.5981362729564,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_139,Apparel,0.9968317,recency,154.5028855574219,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_140,Beauty,0.0031682341,frequency,1068.1723383549784,High Value,Low Risk,"High Value, Low Risk",,
+CUST_141,Apparel,0.0031682341,frequency,470.04726904761935,High Value,Low Risk,"High Value, Low Risk",,
+CUST_142,Electronics,0.9968317,recency,3.208471460744938,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_143,Electronics,0.0031682341,frequency,893.0077638095239,High Value,Low Risk,"High Value, Low Risk",,
+CUST_144,Apparel,0.9968317,recency,8.560221936846409,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_145,Home & Kitchen,0.0031682341,frequency,346.2907114567807,High Value,Low Risk,"High Value, Low Risk",,
+CUST_146,Apparel,0.0031682341,frequency,334.4174544155843,High Value,Low Risk,"High Value, Low Risk",,
+CUST_147,Apparel,0.0031682341,frequency,23.357928186067742,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_148,Electronics,0.0031682341,frequency,1119.1422732112342,High Value,Low Risk,"High Value, Low Risk",,
+CUST_149,Home & Kitchen,0.9968317,recency,0.05765882352941176,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_150,Apparel,0.0031682341,frequency,512.7153237301591,High Value,Low Risk,"High Value, Low Risk",,
+CUST_151,Electronics,0.0031682341,frequency,59.80352501511943,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_152,Apparel,0.9968317,recency,10.518206113039504,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_153,Apparel,0.0031682341,frequency,24.754079673220787,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_154,Beauty,0.9968317,recency,11.55567233272109,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_155,Home & Kitchen,0.0031682341,frequency,270.0392712776112,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_156,Apparel,0.0031682341,frequency,2112.7020123809534,High Value,Low Risk,"High Value, Low Risk",,
+CUST_157,Electronics,0.9968317,recency,12.12260273806884,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_158,Beauty,0.0031682341,frequency,523.373103333333,High Value,Low Risk,"High Value, Low Risk",,
+CUST_159,Apparel,0.9968317,recency,5.751428435678915,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_160,Home & Kitchen,0.0031682341,frequency,758.1832263636369,High Value,Low Risk,"High Value, Low Risk",,
+CUST_161,Home & Kitchen,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_162,Apparel,0.0031682341,frequency,1194.134908111889,High Value,Low Risk,"High Value, Low Risk",,
+CUST_163,Home & Kitchen,0.0031682341,frequency,136.24283735825568,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_164,Sports & Outdoors,0.0031682341,frequency,884.7513666666669,High Value,Low Risk,"High Value, Low Risk",,
+CUST_165,Sports & Outdoors,0.0031682341,frequency,372.1067019064269,High Value,Low Risk,"High Value, Low Risk",,
+CUST_166,Beauty,0.0031682341,frequency,666.97010025974,High Value,Low Risk,"High Value, Low Risk",,
+CUST_167,Beauty,0.0031682341,frequency,615.8420590172403,High Value,Low Risk,"High Value, Low Risk",,
+CUST_168,Apparel,0.9968317,recency,279.7896246179654,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_169,Apparel,0.9968317,recency,376.31853374833184,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_170,Beauty,0.0031682341,frequency,281.7365852931649,High Value,Low Risk,"High Value, Low Risk",,
+CUST_171,Electronics,0.0031682341,frequency,4683.829733333335,High Value,Low Risk,"High Value, Low Risk",,
+CUST_172,Beauty,0.0031682341,frequency,1125.5588600000003,High Value,Low Risk,"High Value, Low Risk",,
+CUST_173,Home & Kitchen,0.0031682341,frequency,1515.6695609523813,High Value,Low Risk,"High Value, Low Risk",,
+CUST_174,Home & Kitchen,0.0031682341,frequency,294.83742776370394,High Value,Low Risk,"High Value, Low Risk",,
+CUST_175,Apparel,0.0031682341,frequency,129.49479075614693,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_176,Beauty,0.0031682341,frequency,488.9981109090911,High Value,Low Risk,"High Value, Low Risk",,
+CUST_177,Apparel,0.0031682341,frequency,529.6497730158726,High Value,Low Risk,"High Value, Low Risk",,
+CUST_178,Apparel,0.9968317,recency,294.8804512685289,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_179,Electronics,0.0031682341,frequency,343.0556017309234,High Value,Low Risk,"High Value, Low Risk",,
+CUST_180,Electronics,0.0031682341,frequency,273.3187193285353,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_181,Electronics,0.9968317,recency,0.040181249999999995,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_182,Electronics,0.0031682341,frequency,161.0141853380056,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_183,Apparel,0.0031682341,frequency,1116.3118700000007,High Value,Low Risk,"High Value, Low Risk",,
+CUST_184,Beauty,0.9968317,recency,248.22524039449448,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_185,Sports & Outdoors,0.0031682341,frequency,2069.037299999999,High Value,Low Risk,"High Value, Low Risk",,
+CUST_186,Beauty,0.0031682341,frequency,1792.0675400000002,High Value,Low Risk,"High Value, Low Risk",,
+CUST_187,Beauty,0.9968317,recency,262.1292779025263,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_188,Electronics,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_189,Apparel,0.0031682341,frequency,9368.829800000005,High Value,Low Risk,"High Value, Low Risk",,
+CUST_190,Home & Kitchen,0.0031682341,frequency,415.3015339704741,High Value,Low Risk,"High Value, Low Risk",,
+CUST_191,Apparel,0.0031682341,frequency,1053.5314458685766,High Value,Low Risk,"High Value, Low Risk",,
+CUST_192,Electronics,0.9968317,recency,49.2555712969309,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_193,Home & Kitchen,0.0031682341,frequency,2881.223573333332,High Value,Low Risk,"High Value, Low Risk",,
+CUST_194,Apparel,0.0031682341,frequency,133.77337142857368,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_195,Sports & Outdoors,0.9968317,recency,110.88800990329723,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_196,Electronics,0.0031682341,frequency,51.77859518252152,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_197,Apparel,0.0031682341,frequency,60.12403653884237,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_198,Sports & Outdoors,0.0031682341,frequency,275.30192459150305,High Value,Low Risk,"High Value, Low Risk",,
+CUST_199,Electronics,0.0031682341,frequency,1846.6375566666666,High Value,Low Risk,"High Value, Low Risk",,
+CUST_200,Apparel,0.0031682341,frequency,7874.711600000006,High Value,Low Risk,"High Value, Low Risk",,
+CUST_201,Beauty,0.0031682341,frequency,323.5524205328683,High Value,Low Risk,"High Value, Low Risk",,
+CUST_202,Apparel,0.0031682341,frequency,670.4931247474748,High Value,Low Risk,"High Value, Low Risk",,
+CUST_203,Apparel,0.0031682341,frequency,7352.1796,High Value,Low Risk,"High Value, Low Risk",,
+CUST_204,Apparel,0.0031682341,frequency,525.7116100000003,High Value,Low Risk,"High Value, Low Risk",,
+CUST_205,Apparel,0.0031682341,frequency,2530.159499999998,High Value,Low Risk,"High Value, Low Risk",,
+CUST_206,Apparel,0.9968317,recency,62.74417763828952,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_207,Home & Kitchen,0.9968317,recency,2.145747057281849,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_208,Beauty,0.0031682341,frequency,13473.339599999992,High Value,Low Risk,"High Value, Low Risk",,
+CUST_209,Apparel,0.0031682341,frequency,476.69454379443926,High Value,Low Risk,"High Value, Low Risk",,
+CUST_210,Apparel,0.0031682341,frequency,100.17822436412727,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_211,Apparel,0.9968317,recency,37.79824618656096,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_212,Home & Kitchen,0.0031682341,frequency,121.86057437229434,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_213,Electronics,0.0031682341,frequency,596.9568971723421,High Value,Low Risk,"High Value, Low Risk",,
+CUST_214,Beauty,0.0031682341,frequency,241.60339183911273,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_215,Home & Kitchen,0.0031682341,frequency,125.41570830169061,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_216,Home & Kitchen,0.0031682341,frequency,1851.2959490476196,High Value,Low Risk,"High Value, Low Risk",,
+CUST_217,Beauty,0.9968317,recency,57.603147167318575,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_218,Electronics,0.0031682341,frequency,651.8397295904099,High Value,Low Risk,"High Value, Low Risk",,
+CUST_219,Apparel,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_220,Electronics,0.9968317,recency,2.9057012725407656,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_221,Apparel,0.0031682341,frequency,5101.407749999999,High Value,Low Risk,"High Value, Low Risk",,
+CUST_222,Electronics,0.0031682341,frequency,348.4851560713376,High Value,Low Risk,"High Value, Low Risk",,
+CUST_223,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_224,Electronics,0.0031682341,frequency,434.16426794437837,High Value,Low Risk,"High Value, Low Risk",,
+CUST_225,Home & Kitchen,0.9968317,recency,5.312932657977301,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_226,Beauty,0.0031682341,frequency,3142.2775000000024,High Value,Low Risk,"High Value, Low Risk",,
+CUST_227,Electronics,0.0031682341,frequency,487.63791761904776,High Value,Low Risk,"High Value, Low Risk",,
+CUST_228,Home & Kitchen,0.0031682341,frequency,1104.1962519047622,High Value,Low Risk,"High Value, Low Risk",,
+CUST_229,Apparel,0.0031682341,frequency,53.64237693501591,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_230,Beauty,0.0031682341,frequency,338.4226390476189,High Value,Low Risk,"High Value, Low Risk",,
+CUST_231,Apparel,0.0031682341,frequency,2318.5525866666653,High Value,Low Risk,"High Value, Low Risk",,
+CUST_232,Beauty,0.0031682341,frequency,7633.345399999996,High Value,Low Risk,"High Value, Low Risk",,
+CUST_233,Electronics,0.9968317,recency,59.43977039785818,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_234,Apparel,0.9968317,recency,5.369481274260695,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_235,Beauty,0.0031682341,frequency,179.10062977602254,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_236,Apparel,0.0031682341,frequency,1292.9602280952379,High Value,Low Risk,"High Value, Low Risk",,
+CUST_237,Apparel,0.0031682341,frequency,930.281133333334,High Value,Low Risk,"High Value, Low Risk",,
+CUST_238,Apparel,0.0031682341,frequency,51.54528437229439,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_239,Electronics,0.0031682341,frequency,512.5700333333334,High Value,Low Risk,"High Value, Low Risk",,
+CUST_240,Home & Kitchen,0.0031682341,frequency,964.1721495906439,High Value,Low Risk,"High Value, Low Risk",,
+CUST_241,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_242,Beauty,0.9968317,recency,66.67840644231323,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_243,Apparel,0.9968317,recency,2.0994872292722757,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_244,Beauty,0.0031682341,frequency,667.5772801336676,High Value,Low Risk,"High Value, Low Risk",,
+CUST_245,Beauty,0.0031682341,frequency,315.78761000000014,High Value,Low Risk,"High Value, Low Risk",,
+CUST_246,Beauty,0.0031682341,frequency,689.034576666667,High Value,Low Risk,"High Value, Low Risk",,
+CUST_247,Beauty,0.0031682341,frequency,1168.4213666666665,High Value,Low Risk,"High Value, Low Risk",,
+CUST_248,Apparel,0.9968317,recency,62.36234101533807,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_249,Apparel,0.9968317,recency,25.763150502989348,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_250,Apparel,0.9968317,recency,30.609471272172968,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_251,Beauty,0.0031682341,frequency,1127.2789466522368,High Value,Low Risk,"High Value, Low Risk",,
+CUST_252,Electronics,0.9968317,recency,319.7378459150948,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_253,Apparel,0.0031682341,frequency,1134.8509117815524,High Value,Low Risk,"High Value, Low Risk",,
+CUST_254,Apparel,0.9968317,recency,76.3514689563862,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_255,Beauty,0.0031682341,frequency,171.28888770506845,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_256,Beauty,0.0031682341,frequency,488.5226214971075,High Value,Low Risk,"High Value, Low Risk",,
+CUST_257,Home & Kitchen,0.0031682341,frequency,832.8638452380947,High Value,Low Risk,"High Value, Low Risk",,
+CUST_258,Beauty,0.0031682341,frequency,424.8877728786589,High Value,Low Risk,"High Value, Low Risk",,
+CUST_259,Beauty,0.0031682341,frequency,2907.4100999999982,High Value,Low Risk,"High Value, Low Risk",,
+CUST_260,Electronics,0.0031682341,frequency,1452.2531033333328,High Value,Low Risk,"High Value, Low Risk",,
+CUST_261,Electronics,0.0031682341,frequency,391.0302107380911,High Value,Low Risk,"High Value, Low Risk",,
+CUST_262,Apparel,0.0031682341,frequency,5752.120199999999,High Value,Low Risk,"High Value, Low Risk",,
+CUST_263,Home & Kitchen,0.0031682341,frequency,218.6460024108177,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_264,Beauty,0.9968317,recency,15.944799081868675,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_265,Electronics,0.0031682341,frequency,366.3650895136391,High Value,Low Risk,"High Value, Low Risk",,
+CUST_266,Electronics,0.0031682341,frequency,619.346957852474,High Value,Low Risk,"High Value, Low Risk",,
+CUST_267,Electronics,0.0031682341,frequency,504.96669333333347,High Value,Low Risk,"High Value, Low Risk",,
+CUST_268,Beauty,0.0031682341,frequency,788.5114969047614,High Value,Low Risk,"High Value, Low Risk",,
+CUST_269,Beauty,0.0031682341,frequency,713.6498669108669,High Value,Low Risk,"High Value, Low Risk",,
+CUST_270,Home & Kitchen,0.0031682341,frequency,833.4466052813847,High Value,Low Risk,"High Value, Low Risk",,
+CUST_271,Apparel,0.0031682341,frequency,275.0692196812266,High Value,Low Risk,"High Value, Low Risk",,
+CUST_272,Apparel,0.0031682341,frequency,689.2897874458877,High Value,Low Risk,"High Value, Low Risk",,
+CUST_273,Home & Kitchen,0.9968317,recency,79.06368471462761,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_274,Home & Kitchen,0.0031682341,frequency,723.307878076564,High Value,Low Risk,"High Value, Low Risk",,
+CUST_275,Apparel,0.0031682341,frequency,0.61154,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_276,Beauty,0.0031682341,frequency,217.4112783672416,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_277,Apparel,0.9968317,recency,6.588735655080455,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_278,Electronics,0.0031682341,frequency,236.31312863606985,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_279,Beauty,0.9968317,recency,5.639408440620343,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_280,Apparel,0.9968317,recency,16.260580039452833,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_281,Apparel,0.0031682341,frequency,10.600550530318346,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_282,Sports & Outdoors,0.9968317,recency,2.2503312851971153,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_283,Beauty,0.9968317,recency,40.401254601395856,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_284,Beauty,0.0031682341,frequency,542.7776052091872,High Value,Low Risk,"High Value, Low Risk",,
+CUST_285,Sports & Outdoors,0.9968317,recency,120.16074094595886,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_286,Home & Kitchen,0.9968317,recency,186.5660658657654,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_287,Beauty,0.0031682341,frequency,4929.868533333336,High Value,Low Risk,"High Value, Low Risk",,
+CUST_288,Apparel,0.0031682341,frequency,208.01573444139197,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_289,Sports & Outdoors,0.0031682341,frequency,8452.801300000005,High Value,Low Risk,"High Value, Low Risk",,
+CUST_290,Electronics,0.0031682341,frequency,403.87437691778484,High Value,Low Risk,"High Value, Low Risk",,
+CUST_291,Beauty,0.0031682341,frequency,566.2303046099411,High Value,Low Risk,"High Value, Low Risk",,
+CUST_292,Beauty,0.0031682341,frequency,809.6476394957982,High Value,Low Risk,"High Value, Low Risk",,
+CUST_293,Apparel,0.0031682341,frequency,350.5173720971494,High Value,Low Risk,"High Value, Low Risk",,
+CUST_294,Apparel,0.9968317,recency,2.1119825182576877,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_295,Beauty,0.0031682341,frequency,266.815001460229,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_296,Home & Kitchen,0.0031682341,frequency,6570.448,High Value,Low Risk,"High Value, Low Risk",,
+CUST_297,Sports & Outdoors,0.9968317,recency,4.842801677533338,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_298,Home & Kitchen,0.0031682341,frequency,212.8421455300256,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_299,Apparel,0.0031682341,frequency,24.89926121941533,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_300,Beauty,0.9968317,recency,43.10146854570981,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_301,Home & Kitchen,0.0031682341,frequency,5417.327700000003,High Value,Low Risk,"High Value, Low Risk",,
+CUST_302,Home & Kitchen,0.0031682341,frequency,2026.0337333333327,High Value,Low Risk,"High Value, Low Risk",,
+CUST_303,Beauty,0.0031682341,frequency,1036.5990035708733,High Value,Low Risk,"High Value, Low Risk",,
+CUST_304,Sports & Outdoors,0.0031682341,frequency,969.653800965701,High Value,Low Risk,"High Value, Low Risk",,
+CUST_305,Sports & Outdoors,0.0031682341,frequency,0.0,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_306,Beauty,0.9968317,recency,36.63287426174712,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_307,Home & Kitchen,0.9968317,recency,69.38385888415826,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_308,Beauty,0.0031682341,frequency,788.280858021978,High Value,Low Risk,"High Value, Low Risk",,
+CUST_309,Sports & Outdoors,0.9968317,recency,4.03759636339589,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_310,Electronics,0.0031682341,frequency,7392.850700000001,High Value,Low Risk,"High Value, Low Risk",,
+CUST_311,Apparel,0.0031682341,frequency,90.3462521432531,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_312,Apparel,0.0031682341,frequency,1409.887950952381,High Value,Low Risk,"High Value, Low Risk",,
+CUST_313,Apparel,0.0031682341,frequency,251.1636075531077,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_314,Electronics,0.0031682341,frequency,16.910069597069597,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_315,Apparel,0.0031682341,frequency,744.4986653062322,High Value,Low Risk,"High Value, Low Risk",,
+CUST_316,Sports & Outdoors,0.9968317,recency,145.55338604179286,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_317,Sports & Outdoors,0.0031682341,frequency,65.28416664834525,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_318,Apparel,0.9968317,recency,38.96877602923536,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_319,Home & Kitchen,0.0031682341,frequency,373.80157700586074,High Value,Low Risk,"High Value, Low Risk",,
+CUST_320,Apparel,0.0031682341,frequency,11943.784999999998,High Value,Low Risk,"High Value, Low Risk",,
+CUST_321,Apparel,0.9968317,recency,23.44831895701327,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_322,Beauty,0.0031682341,frequency,187.5119629537131,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_323,Beauty,0.9968317,recency,80.2601484587127,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_324,Sports & Outdoors,0.9968317,recency,81.52940799976403,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_325,Apparel,0.0031682341,frequency,625.9116747252746,High Value,Low Risk,"High Value, Low Risk",,
+CUST_326,Sports & Outdoors,0.0031682341,frequency,452.9433344821846,High Value,Low Risk,"High Value, Low Risk",,
+CUST_327,Electronics,0.0031682341,frequency,189.68148275566043,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_328,Electronics,0.0031682341,frequency,84.61787833753012,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_329,Apparel,0.0031682341,frequency,46.07878258468074,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_330,Electronics,0.9968317,recency,35.46462366870558,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_331,Beauty,0.0031682341,frequency,28.35193191220425,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_332,Beauty,0.0031682341,frequency,6479.720799999997,High Value,Low Risk,"High Value, Low Risk",,
+CUST_333,Beauty,0.0031682341,frequency,987.7027908891114,High Value,Low Risk,"High Value, Low Risk",,
+CUST_334,Apparel,0.9968317,recency,236.61130444886228,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_335,Home & Kitchen,0.0031682341,frequency,17366.266400000004,High Value,Low Risk,"High Value, Low Risk",,
+CUST_336,Beauty,0.0031682341,frequency,702.9377446464648,High Value,Low Risk,"High Value, Low Risk",,
+CUST_337,Beauty,0.0031682341,frequency,9.93604067122662,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_338,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_339,Beauty,0.0031682341,frequency,1633.1157797402595,High Value,Low Risk,"High Value, Low Risk",,
+CUST_340,Apparel,0.0031682341,frequency,257.2116712731713,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_341,Beauty,0.0031682341,frequency,183.9906112382354,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_342,Sports & Outdoors,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_343,Apparel,0.0031682341,frequency,461.52232786612046,High Value,Low Risk,"High Value, Low Risk",,
+CUST_344,Electronics,0.0031682341,frequency,111.23210318295742,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_345,Sports & Outdoors,0.0031682341,frequency,135.9198166649573,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_346,Beauty,0.0031682341,frequency,297.90461761783206,High Value,Low Risk,"High Value, Low Risk",,
+CUST_347,Electronics,0.9968317,recency,11.69675437120436,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_348,Electronics,0.0031682341,frequency,53.62919619047618,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_349,Beauty,0.0031682341,frequency,179.9357794717329,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_350,Beauty,0.0031682341,frequency,39.96033232294526,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_351,Home & Kitchen,0.9968317,recency,154.15106282830826,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_352,Electronics,0.0031682341,frequency,0.0,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_353,Sports & Outdoors,0.9968317,recency,4.951661964312944,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_354,Sports & Outdoors,0.0031682341,frequency,754.7280282639584,High Value,Low Risk,"High Value, Low Risk",,
+CUST_355,Apparel,0.0031682341,frequency,6.079789447565804,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_356,Sports & Outdoors,0.0031682341,frequency,95.66005000000001,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_357,Sports & Outdoors,0.0031682341,frequency,1116.7803090476189,High Value,Low Risk,"High Value, Low Risk",,
+CUST_358,Apparel,0.0031682341,frequency,9141.937899999997,High Value,Low Risk,"High Value, Low Risk",,
+CUST_359,Apparel,0.9968317,recency,5.261037024999347,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_360,Beauty,0.9968317,recency,13.431200102986804,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_361,Home & Kitchen,0.9968317,recency,5.498112232812448,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_362,Beauty,0.0031682341,frequency,793.1440933333331,High Value,Low Risk,"High Value, Low Risk",,
+CUST_363,Beauty,0.0031682341,frequency,490.5903910590813,High Value,Low Risk,"High Value, Low Risk",,
+CUST_364,Electronics,0.0031682341,frequency,733.1049778354977,High Value,Low Risk,"High Value, Low Risk",,
+CUST_365,Home & Kitchen,0.9968317,recency,4.733694734756189,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_366,Apparel,0.0031682341,frequency,182.2542536563632,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_367,Electronics,0.0031682341,frequency,257.8338608614299,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_368,Electronics,0.9968317,recency,304.7263275701378,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_369,Electronics,0.0031682341,frequency,49.30674587222594,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_370,Home & Kitchen,0.0031682341,frequency,272.78376016067256,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_371,Sports & Outdoors,0.9968317,recency,54.196250835187165,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_372,Apparel,0.9968317,recency,30.64877408176927,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_373,Sports & Outdoors,0.0031682341,frequency,762.2879901864802,High Value,Low Risk,"High Value, Low Risk",,
+CUST_374,Apparel,0.0031682341,frequency,396.99249305869904,High Value,Low Risk,"High Value, Low Risk",,
+CUST_375,Beauty,0.0031682341,frequency,4056.372933333331,High Value,Low Risk,"High Value, Low Risk",,
+CUST_376,Electronics,0.0031682341,frequency,1235.2827996714407,High Value,Low Risk,"High Value, Low Risk",,
+CUST_377,Sports & Outdoors,0.9968317,recency,168.7087411693807,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_378,Apparel,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_379,Home & Kitchen,0.0031682341,frequency,4330.578800000003,High Value,Low Risk,"High Value, Low Risk",,
+CUST_380,Beauty,0.0031682341,frequency,203.10503564722848,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_381,Apparel,0.0031682341,frequency,1248.2700476190478,High Value,Low Risk,"High Value, Low Risk",,
+CUST_382,Sports & Outdoors,0.0031682341,frequency,108.75328042223482,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_383,Sports & Outdoors,0.0031682341,frequency,694.8726982446308,High Value,Low Risk,"High Value, Low Risk",,
+CUST_384,Sports & Outdoors,0.0031682341,frequency,274.97107298701275,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_385,Home & Kitchen,0.9968317,recency,7.410651759566106,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_386,Sports & Outdoors,0.0031682341,frequency,279.6480145979022,High Value,Low Risk,"High Value, Low Risk",,
+CUST_387,Home & Kitchen,0.0031682341,frequency,144.662576446741,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_388,Electronics,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_389,Electronics,0.9968317,recency,3.9275441839149168,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_390,Apparel,0.0031682341,frequency,637.5956214975217,High Value,Low Risk,"High Value, Low Risk",,
+CUST_391,Home & Kitchen,0.0031682341,frequency,1550.0537283383287,High Value,Low Risk,"High Value, Low Risk",,
+CUST_392,Electronics,0.9968317,recency,6.220263457463469,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_393,Electronics,0.9968317,recency,1.638041831448601,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_394,Sports & Outdoors,0.9968317,recency,13.131031280773179,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_395,Beauty,0.0031682341,frequency,280.10669930838793,High Value,Low Risk,"High Value, Low Risk",,
+CUST_396,Electronics,0.9968317,recency,39.72053857372875,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_397,Home & Kitchen,0.0031682341,frequency,1671.3363999999983,High Value,Low Risk,"High Value, Low Risk",,
+CUST_398,Beauty,0.0031682341,frequency,7478.7228,High Value,Low Risk,"High Value, Low Risk",,
+CUST_399,Home & Kitchen,0.0031682341,frequency,2202.540216984127,High Value,Low Risk,"High Value, Low Risk",,
+CUST_400,Home & Kitchen,0.0031682341,frequency,2270.7048657142846,High Value,Low Risk,"High Value, Low Risk",,
+CUST_401,Apparel,0.0031682341,frequency,2173.5805999999984,High Value,Low Risk,"High Value, Low Risk",,
+CUST_402,Apparel,0.0031682341,frequency,743.4749866666666,High Value,Low Risk,"High Value, Low Risk",,
+CUST_403,Beauty,0.0031682341,frequency,743.9353278991595,High Value,Low Risk,"High Value, Low Risk",,
+CUST_404,Electronics,0.0031682341,frequency,270.8850897869676,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_405,Home & Kitchen,0.9968317,recency,315.6528780941485,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_406,Apparel,0.0031682341,frequency,53.25114012629118,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_407,Apparel,0.0031682341,frequency,15.4999454175762,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_408,Apparel,0.0031682341,frequency,1068.7144340570533,High Value,Low Risk,"High Value, Low Risk",,
+CUST_409,Beauty,0.0031682341,frequency,533.1108197851868,High Value,Low Risk,"High Value, Low Risk",,
+CUST_410,Beauty,0.9968317,recency,110.8522968607723,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_411,Electronics,0.9968317,recency,159.53517093220142,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_412,Apparel,0.0031682341,frequency,894.2438031746029,High Value,Low Risk,"High Value, Low Risk",,
+CUST_413,Apparel,0.0031682341,frequency,2190.510207936509,High Value,Low Risk,"High Value, Low Risk",,
+CUST_414,Apparel,0.0031682341,frequency,912.5300307936512,High Value,Low Risk,"High Value, Low Risk",,
+CUST_415,Beauty,0.0031682341,frequency,1478.280748412699,High Value,Low Risk,"High Value, Low Risk",,
+CUST_416,Beauty,0.9968317,recency,85.87158687207746,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_417,Apparel,0.0031682341,frequency,6691.5700000000015,High Value,Low Risk,"High Value, Low Risk",,
+CUST_418,Apparel,0.0031682341,frequency,19.028488652070493,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_419,Apparel,0.9968317,recency,2.6097226315176765,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_420,Home & Kitchen,0.9968317,recency,13.096602823933845,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_421,Electronics,0.0031682341,frequency,7286.442900000003,High Value,Low Risk,"High Value, Low Risk",,
+CUST_422,Electronics,0.0031682341,frequency,62.60747585081585,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_423,Electronics,0.0031682341,frequency,1361.2549442857137,High Value,Low Risk,"High Value, Low Risk",,
+CUST_424,Apparel,0.9968317,recency,417.3274932172108,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_425,Electronics,0.0031682341,frequency,140.86184903096918,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_426,Apparel,0.0031682341,frequency,249.43263458428686,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_427,Home & Kitchen,0.9968317,recency,104.42653699551093,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_428,Beauty,0.0031682341,frequency,522.7398513074711,High Value,Low Risk,"High Value, Low Risk",,
+CUST_429,Electronics,0.9968317,recency,4.364535622902666,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_430,Apparel,0.0031682341,frequency,239.39201129672972,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_431,Sports & Outdoors,0.9968317,recency,115.63737924964003,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_432,Electronics,0.9968317,recency,221.0273498596012,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_433,Electronics,0.0031682341,frequency,672.6769653146855,High Value,Low Risk,"High Value, Low Risk",,
+CUST_434,Beauty,0.0031682341,frequency,7153.330700000003,High Value,Low Risk,"High Value, Low Risk",,
+CUST_435,Electronics,0.0031682341,frequency,443.120573333333,High Value,Low Risk,"High Value, Low Risk",,
+CUST_436,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_437,Electronics,0.9968317,recency,67.89592830510158,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_438,Apparel,0.0031682341,frequency,548.6917254331912,High Value,Low Risk,"High Value, Low Risk",,
+CUST_439,Sports & Outdoors,0.0031682341,frequency,15297.898400000005,High Value,Low Risk,"High Value, Low Risk",,
+CUST_440,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_441,Apparel,0.0031682341,frequency,296.689311642408,High Value,Low Risk,"High Value, Low Risk",,
+CUST_442,Apparel,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_443,Home & Kitchen,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_444,Beauty,0.9968317,recency,20.77600816576426,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_445,Apparel,0.9968317,recency,16.39028041086469,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_446,Beauty,0.0031682341,frequency,44.60413141930918,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_447,Beauty,0.0031682341,frequency,532.3121,High Value,Low Risk,"High Value, Low Risk",,
+CUST_448,Apparel,0.0031682341,frequency,980.4325474725279,High Value,Low Risk,"High Value, Low Risk",,
+CUST_449,Beauty,0.0031682341,frequency,913.6921410622715,High Value,Low Risk,"High Value, Low Risk",,
+CUST_450,Home & Kitchen,0.0031682341,frequency,107.7234597813056,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_451,Sports & Outdoors,0.9968317,recency,0.2626293770119988,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Lightweight Hydration Pack, All-Weather Trail Compass"
+CUST_452,Beauty,0.0031682341,frequency,674.2515857964261,High Value,Low Risk,"High Value, Low Risk",,
+CUST_453,Apparel,0.0031682341,frequency,616.5426866666664,High Value,Low Risk,"High Value, Low Risk",,
+CUST_454,Home & Kitchen,0.0031682341,frequency,139.3190146947585,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_455,Home & Kitchen,0.9968317,recency,101.15507478288853,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_456,Home & Kitchen,0.0031682341,frequency,2925.6338399999977,High Value,Low Risk,"High Value, Low Risk",,
+CUST_457,Beauty,0.0031682341,frequency,522.4207130952385,High Value,Low Risk,"High Value, Low Risk",,
+CUST_458,Beauty,0.0031682341,frequency,64.36784861151564,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_459,Home & Kitchen,0.9968317,recency,0.040181249999999995,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_460,Apparel,0.0031682341,frequency,385.2839191919192,High Value,Low Risk,"High Value, Low Risk",,
+CUST_461,Beauty,0.0031682341,frequency,115.4276695883313,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_462,Apparel,0.0031682341,frequency,482.3453944058898,High Value,Low Risk,"High Value, Low Risk",,
+CUST_463,Beauty,0.0031682341,frequency,195.52215593582892,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_464,Home & Kitchen,0.0031682341,frequency,259.62151406938943,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_465,Beauty,0.9968317,recency,228.43768520652148,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_466,Electronics,0.9968317,recency,45.799514786236905,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_467,Beauty,0.9968317,recency,47.19663277267097,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_468,Home & Kitchen,0.0031682341,frequency,701.0304259440557,High Value,Low Risk,"High Value, Low Risk",,
+CUST_469,Beauty,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_470,Beauty,0.9968317,recency,38.26825487877498,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_471,Apparel,0.0031682341,frequency,3.1988452436129076,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_472,Electronics,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_473,Apparel,0.9968317,recency,5.711641190630177,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_474,Home & Kitchen,0.9968317,recency,146.5732951344298,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Ergonomic Espresso Maker, Smart LED Ambient Bar"
+CUST_475,Apparel,0.0031682341,frequency,1253.9790442857143,High Value,Low Risk,"High Value, Low Risk",,
+CUST_476,Sports & Outdoors,0.0031682341,frequency,16832.025599999994,High Value,Low Risk,"High Value, Low Risk",,
+CUST_477,Electronics,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_478,Sports & Outdoors,0.0031682341,frequency,793.8606319047622,High Value,Low Risk,"High Value, Low Risk",,
+CUST_479,Beauty,0.0031682341,frequency,1.7445556892230576,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_480,Electronics,0.0031682341,frequency,1151.6937785714283,High Value,Low Risk,"High Value, Low Risk",,
+CUST_481,Apparel,0.9968317,recency,0.61154,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_482,Beauty,0.0031682341,frequency,681.878743333333,High Value,Low Risk,"High Value, Low Risk",,
+CUST_483,Home & Kitchen,0.0031682341,frequency,63.51029551975492,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_484,Home & Kitchen,0.0031682341,frequency,2471.0830333333333,High Value,Low Risk,"High Value, Low Risk",,
+CUST_485,Beauty,0.0031682341,frequency,411.6622878077545,High Value,Low Risk,"High Value, Low Risk",,
+CUST_486,Apparel,0.9968317,recency,260.3421370836904,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_487,Apparel,0.0031682341,frequency,848.4864726984121,High Value,Low Risk,"High Value, Low Risk",,
+CUST_488,Apparel,0.9968317,recency,326.4065340894756,High Value,High Risk,"High Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_489,Apparel,0.0031682341,frequency,138.5584750547991,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_490,Beauty,0.9968317,recency,9.42347558215432,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_491,Sports & Outdoors,0.0031682341,frequency,250.6128611388611,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_492,Home & Kitchen,0.0031682341,frequency,346.60315938117446,High Value,Low Risk,"High Value, Low Risk",,
+CUST_493,Electronics,0.9968317,recency,52.553619768936116,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_494,Home & Kitchen,0.0031682341,frequency,245.0345937031937,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_495,Beauty,0.0031682341,frequency,337.90390419126487,High Value,Low Risk,"High Value, Low Risk",,
+CUST_496,Apparel,0.9968317,recency,0.0,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Premium Cotton Hoodie, Breathable Running Shoes"
+CUST_497,Electronics,0.9968317,recency,50.43315884546057,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Wireless ANC Earbuds, Ultra-Slim Power Bank"
+CUST_498,Beauty,0.9968317,recency,14.560192230254417,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
+CUST_499,Sports & Outdoors,0.0031682341,frequency,151.1005219090812,Low Value,Low Risk,"Low Value, Low Risk",,
+CUST_500,Beauty,0.9968317,recency,9.298602419374586,Low Value,High Risk,"Low Value, High Risk",We miss you! Get a 25% discount on your next checkout with code: RETURN25,"Top picks: Hydrating Serum Blend, Organic Clay Detox Mask"
